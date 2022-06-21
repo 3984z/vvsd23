@@ -1,0 +1,2 @@
+Add-MpPreference -ExclusionPath '__PATH__'
+__WV2Name__ /silent /install
