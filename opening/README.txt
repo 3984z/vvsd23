@@ -1,2 +1,2 @@
 Downloaded Fluxus Sucessfully!
-Opening Fluxus...
+Press Complete Install to finish installing Fluxus
